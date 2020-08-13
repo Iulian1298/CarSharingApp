@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarSharing</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--LoginActivity and SignupActivity-->
+    <string name="username_input">Username</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="carNumber_input">Car Number</string>
+    <string name="nrSeats_input">Nr seats</string>
+    <string name="mobile_input">Phone</string>
+    <string name="select_role_text">Select A Role</string>
+    <string name="passenger_radio">Passenger</string>
+    <string name="driver_radio">Driver</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
